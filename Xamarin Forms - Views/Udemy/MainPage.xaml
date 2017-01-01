@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Udemy.MainPage">
+  <StackLayout>
+    <Button Text="Content View" Clicked="BtnContentView" x:Name="BtnContent"></Button>
+    <Button Text="Frame View" Clicked="BtnFrame" x:Name="BtnFrameView"></Button>
+    <Button Text="Scroll Content View" Clicked="BtnScroll" x:Name="BtnScrollView"></Button>
+    <Button Text="Grid View" Clicked="BtnGrid" x:Name="BtnGridView"></Button>
+  </StackLayout>
+</ContentPage>
