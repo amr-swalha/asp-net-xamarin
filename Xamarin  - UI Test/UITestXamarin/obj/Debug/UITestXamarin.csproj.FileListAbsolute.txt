@@ -1,0 +1,9 @@
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\XamarinForms\UITestXamarin\bin\Debug\UITestXamarin.dll
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\XamarinForms\UITestXamarin\bin\Debug\UITestXamarin.pdb
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\XamarinForms\UITestXamarin\bin\Debug\nunit.framework.dll
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\XamarinForms\UITestXamarin\bin\Debug\Xamarin.UITest.dll
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\XamarinForms\UITestXamarin\bin\Debug\nunit.framework.xml
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\XamarinForms\UITestXamarin\bin\Debug\Xamarin.UITest.xml
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\XamarinForms\UITestXamarin\obj\Debug\UITestXamarin.csprojResolveAssemblyReference.cache
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\XamarinForms\UITestXamarin\obj\Debug\UITestXamarin.dll
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\XamarinForms\UITestXamarin\obj\Debug\UITestXamarin.pdb

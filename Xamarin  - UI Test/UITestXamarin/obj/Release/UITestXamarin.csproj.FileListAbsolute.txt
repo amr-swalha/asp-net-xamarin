@@ -1,0 +1,8 @@
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\XamarinForms\UITestXamarin\bin\Release\UITestXamarin.dll
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\XamarinForms\UITestXamarin\bin\Release\UITestXamarin.pdb
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\XamarinForms\UITestXamarin\bin\Release\nunit.framework.dll
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\XamarinForms\UITestXamarin\bin\Release\Xamarin.UITest.dll
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\XamarinForms\UITestXamarin\bin\Release\nunit.framework.xml
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\XamarinForms\UITestXamarin\bin\Release\Xamarin.UITest.xml
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\XamarinForms\UITestXamarin\obj\Release\UITestXamarin.dll
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\XamarinForms\UITestXamarin\obj\Release\UITestXamarin.pdb
