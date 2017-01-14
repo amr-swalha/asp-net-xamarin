@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XFAPP.MainPage" Title="Main Page" BackgroundColor="Green"
+             Padding="70, 70, 70, 70"
+  >
+  <ContentPage.Content>
+   <ScrollView>
+     <StackLayout>
+       <Button x:Name="BntStack" Text="StackLayout" Clicked="BntStack_OnClicked" />
+       <Button x:Name="BntScroll" Text="ScrollView" Clicked="BntScroll_OnClicked"></Button>
+       <Button x:Name="BntCoded" Text="Coded Page" Clicked="BntCoded_OnClicked"></Button>
+       <Button x:Name="BntEntry" Text="Entry Text" Clicked="BntEntry_OnClicked"></Button>
+       <Button x:Name="BntPicker" Text="Picker" Clicked="BntPicker_OnClicked"></Button>
+       <Button x:Name="BntSwitch" Text="Switch" Clicked="BntSwitch_OnClicked"></Button>
+       <Button x:Name="BntEditor" Text="Editor" Clicked="BntEditor_OnClicked"></Button>
+       <Button x:Name="BntSearch" Text="Search" Clicked="BntSearch_OnClicked"></Button>
+     </StackLayout>
+   </ScrollView>
+  </ContentPage.Content>
+
+
+</ContentPage>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XFAPP.XFControls.EntryPage">
+  <StackLayout>
+
+    <Label Text="Normal Entry"></Label>
+    <Entry x:Name="Nen"></Entry>
+    <Label Text="Entry with a keyboard"></Label>
+    <!--Text
+    Chat
+    Url
+    Email
+    Telephone
+    Numeric-->
+    <Entry Keyboard="Numeric"></Entry>
+    <Label Text="Entry with a font settings"></Label>
+    <Entry FontSize="15" FontFamily="Arial" TextColor="Green" FontAttributes="Italic"></Entry>
+    <Label Text="Entry with events"></Label>
+    <Label Text="Results" x:Name="lblResult"></Label>
+    <Entry x:Name="EntryEvent"
+    TextChanged="EntryEvent_OnTextChanged"
+    Completed="Entry_OnCompleted"
+    Unfocused="EntryEvent_OnUnfocused"
+    ></Entry>
+  
+  </StackLayout>
+</ContentPage>

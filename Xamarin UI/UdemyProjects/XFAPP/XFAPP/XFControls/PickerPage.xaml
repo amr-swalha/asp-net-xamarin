@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XFAPP.XFControls.PickerPage">
+  <StackLayout>
+    <Label Text="Normal"></Label>
+    <Picker x:Name="Picker1" Title="Normal">
+      
+    </Picker>
+    <Label Text="With Event"></Label>
+    <Picker x:Name="Picker2" Title="with event" 
+            SelectedIndexChanged="Picker2_OnSelectedIndexChanged" />
+
+    <Label x:Name="Secondlbl" Text="The value is: "></Label>
+    <Button x:Name="BntGet" Text="Get the second value" Clicked="BntGet_OnClicked"></Button>
+    <Button x:Name="BntSet" Text="set the second value" Clicked="BntSet_OnClicked"></Button>
+  </StackLayout>
+</ContentPage>
