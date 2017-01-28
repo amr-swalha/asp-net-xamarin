@@ -1,0 +1,177 @@
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\bin\Debug\XamarinApp.Droid.dll
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\bin\Debug\XamarinApp.Droid.pdb
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\bin\Debug\XamarinApp.Droid.apk
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\bin\Debug\XamarinApp.Droid-Signed.apk
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\bin\Debug\FormsViewGroup.dll
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\bin\Debug\XamarinApp.dll
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\bin\Debug\XamarinApp.pdb
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\bin\Debug\FormsViewGroup.pdb
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\obj\Debug\XamarinApp.Droid.csprojResolveAssemblyReference.cache
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\obj\Debug\XamarinApp.Droid.dll
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\obj\Debug\XamarinApp.Droid.pdb
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\obj\Debug\android\bin\XamarinApp.Droid.apk
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\obj\Debug\res\drawable\icon.png
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\obj\Debug\res\layout\tabbar.xml
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\obj\Debug\res\layout\toolbar.xml
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\obj\Debug\res\values\styles.xml
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\obj\Debug\R.cs.flag
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\obj\Debug\uploadflags.txt
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\bin\Debug\System.Net.Http.dll
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\bin\Debug\System.Net.Primitives.dll
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\bin\Debug\System.Net.Http.xml
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\bin\Debug\System.Net.Primitives.xml
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\bin\Debug\XamarinApp.Droid.dll.mdb
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\bin\Debug\XamarinApp.dll.mdb
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\bin\Debug\Java.Interop.dll.mdb
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\bin\Debug\Mono.Android.dll.mdb
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\bin\Debug\Mono.CSharp.dll.mdb
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\bin\Debug\mscorlib.dll.mdb
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\bin\Debug\System.Core.dll.mdb
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\bin\Debug\System.dll.mdb
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\bin\Debug\System.Xml.dll.mdb
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\obj\Debug\android\assets\System.dll.mdb
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\obj\Debug\android\assets\XamarinApp.dll.mdb
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\obj\Debug\android\assets\XamarinApp.Droid.dll.mdb
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\bin\Debug\SQLite-net.dll
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\bin\Debug\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\bin\Debug\SQLite-net.xml
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\bin\Debug\SQLite-net.dll.mdb
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\obj\Debug\android\assets\SQLite-net.dll.mdb
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp.Droid\obj\Debug\XamarinApp.Droid.dll.mdb
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\obj\Debug\XamarinApp.Droid.csprojResolveAssemblyReference.cache
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\obj\Debug\XamarinApp.Droid.dll
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\obj\Debug\XamarinApp.Droid.pdb
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\bin\Debug\XamarinApp.Droid.dll
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\bin\Debug\XamarinApp.Droid.pdb
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\bin\Debug\XamarinApp.Droid.apk
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\bin\Debug\XamarinApp.Droid-Signed.apk
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\bin\Debug\FormsViewGroup.dll
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\bin\Debug\SQLite-net.dll
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\bin\Debug\SQLitePCLRaw.batteries_green.dll
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\bin\Debug\SQLitePCLRaw.core.dll
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\bin\Debug\SQLitePCLRaw.lib.e_sqlite3.dll
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\bin\Debug\Xamarin.Forms.Core.dll
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\bin\Debug\XamarinApp.dll
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\bin\Debug\XamarinApp.pdb
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\bin\Debug\XamarinApp.dll.mdb
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\bin\Debug\FormsViewGroup.pdb
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\bin\Debug\FormsViewGroup.dll.mdb
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\bin\Debug\SQLite-net.xml
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\bin\Debug\SQLite-net.dll.mdb
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\bin\Debug\Xamarin.Forms.Core.pdb
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\bin\Debug\Xamarin.Forms.Core.xml
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\obj\Debug\android\bin\XamarinApp.Droid.apk
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\obj\Debug\res\drawable\icon.png
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\obj\Debug\res\drawable-hdpi\icon.png
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\obj\Debug\res\layout\tabbar.xml
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\obj\Debug\res\layout\toolbar.xml
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\obj\Debug\res\values\styles.xml
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\obj\Debug\R.cs.flag
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\obj\Debug\uploadflags.txt
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\bin\Debug\Java.Interop.dll.mdb
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\bin\Debug\Microsoft.CSharp.dll.mdb
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\bin\Debug\Mono.Android.dll.mdb
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\bin\Debug\Mono.CSharp.dll.mdb
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\bin\Debug\mscorlib.dll.mdb
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\bin\Debug\System.Core.dll.mdb
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\bin\Debug\System.dll.mdb
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\bin\Debug\System.Net.Http.dll.mdb
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\bin\Debug\System.Xml.dll.mdb
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\bin\Debug\System.Xml.Linq.dll.mdb
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\bin\Debug\XamarinApp.Droid.dll.mdb
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\obj\Debug\android\assets\mscorlib.dll.mdb
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\obj\Debug\android\assets\SQLite-net.dll.mdb
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\obj\Debug\android\assets\System.Core.dll.mdb
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\obj\Debug\android\assets\System.dll.mdb
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\obj\Debug\android\assets\System.Xml.dll.mdb
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\obj\Debug\android\assets\XamarinApp.dll.mdb
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\obj\Debug\android\assets\XamarinApp.Droid.dll.mdb
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\obj\Debug\XamarinApp.Droid.dll.mdb
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp.Droid\bin\Debug\XamarinApp.Droid.dll.mdb

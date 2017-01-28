@@ -1,0 +1,54 @@
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp\bin\Debug\XamarinApp.dll
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp\bin\Debug\XamarinApp.pdb
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp\obj\Debug\XamarinApp.dll
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp\obj\Debug\XamarinApp.pdb
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp\bin\Debug\System.Net.Http.dll
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp\bin\Debug\System.Net.Primitives.dll
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp\bin\Debug\System.Net.Http.xml
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp\bin\Debug\System.Net.Primitives.xml
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp\obj\Debug\XamarinApp.MainHomePage.xaml.g.cs
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp\bin\Debug\SQLite-net.dll
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp\bin\Debug\SQLite-net.xml
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp\obj\Debug\XamarinApp.MoviePage.xaml.g.cs
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp\obj\Debug\XamarinApp.ListAll.xaml.g.cs
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp\obj\Debug\XamarinApp.dll.mdb
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\WebAndMobile\XamarinApp\XamarinApp\bin\Debug\XamarinApp.dll.mdb
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp\obj\Debug\XamarinApp.csprojResolveAssemblyReference.cache
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp\obj\Debug\XamarinApp.MainHomePage.xaml.g.cs
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp\obj\Debug\XamarinApp.MoviePage.xaml.g.cs
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp\obj\Debug\XamarinApp.ListAll.xaml.g.cs
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp\obj\Debug\XamarinApp.dll
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp\obj\Debug\XamarinApp.pdb
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp\bin\Debug\XamarinApp.dll
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp\bin\Debug\XamarinApp.pdb
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp\bin\Debug\Newtonsoft.Json.dll
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp\bin\Debug\SQLite-net.dll
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp\bin\Debug\SQLitePCLRaw.batteries_green.dll
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp\bin\Debug\SQLitePCLRaw.core.dll
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp\bin\Debug\Xamarin.Forms.Core.dll
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp\bin\Debug\Xamarin.Forms.Platform.dll
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp\bin\Debug\Newtonsoft.Json.xml
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp\bin\Debug\SQLite-net.xml
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp\bin\Debug\Xamarin.Forms.Core.pdb
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp\bin\Debug\Xamarin.Forms.Core.xml
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp\bin\Debug\Xamarin.Forms.Platform.pdb
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp\obj\Debug\XamarinApp.EditMovie.xaml.g.cs
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp\obj\Debug\XamarinApp.dll.mdb
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp\bin\Debug\XamarinApp.dll.mdb
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp\obj\Debug\XamarinApp.dll.mdb
+E:\Github\asp-net-xamarin\Xamarin Database\XamarinApp\XamarinApp\bin\Debug\XamarinApp.dll.mdb

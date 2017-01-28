@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XamarinApp.MoviePage"
+             Title="Main Page">
+  <ContentPage.Content>
+    <StackLayout Padding="20">
+      <StackLayout Orientation="Horizontal">
+        <Label Text="Movie Name" WidthRequest="130"></Label>
+        <Entry x:Name="movieName" WidthRequest="150"></Entry>
+      </StackLayout>
+      <StackLayout>
+        <Label Text="Movie ReleaseDate" WidthRequest="130"></Label>
+        <DatePicker x:Name="movieRelease"></DatePicker>
+      </StackLayout>
+      <StackLayout Orientation="Horizontal">
+        <Label Text="Movie Length" WidthRequest="130"></Label>
+        <Entry x:Name="movieLength" WidthRequest="150"></Entry>
+      </StackLayout>
+      <Button x:Name="btnAdd" Text="Add" Clicked="btnAdd_Click"></Button>
+      <Button x:Name="btnViewAll" Text="View All" Clicked="btnView_Click"></Button>
+    </StackLayout>
+
+  </ContentPage.Content>
+</ContentPage>
